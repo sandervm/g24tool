@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# g24tool output
+out/
+anim/
+sheets/
+atlas/
+meta/
+tiles/
+sections/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
